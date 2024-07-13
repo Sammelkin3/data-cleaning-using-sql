@@ -14,6 +14,8 @@ Includes comments to explain specific data cleaning steps (optional).
 Flexibility:
 Can be easily adapted to clean different datasets by adjusting specific queries and conditions.
 Optionally allows customization of cleaning parameters (e.g., imputation methods) through configuration files (if applicable).
+
+
 Approach:
 
 Data Exploration and Understanding:
@@ -29,6 +31,8 @@ Optionally utilize window functions (e.g., RANK, PERCENTILE) for outlier handlin
 Data Quality Validation:
 Verify the effectiveness of data cleaning by re-running data quality checks and comparing results before and after cleaning.
 Ensure the cleaned data is consistent, complete, and suitable for further analysis.
+
+
 Benefits:
 
 Improves data quality and reliability for subsequent analysis.
